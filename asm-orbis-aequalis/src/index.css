@@ -1,0 +1,28 @@
+html,
+body,
+#root {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial;
+  line-height: 1.4;
+  padding: 12px;
+  color: #111;
+}
+a {
+  color: #0b5fff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1,
+h2,
+h3 {
+  margin: 8px 0;
+}
+ul {
+  margin: 6px 0 12px 20px;
+}
