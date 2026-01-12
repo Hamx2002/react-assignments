@@ -1,9 +1,9 @@
 function App() {
-  return ( 
+  return (
     <>
-    App
+      App checking git
     </>
-   );
+  );
 }
 
 export default App;
