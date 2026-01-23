@@ -1,9 +1,7 @@
+import AppRouter from "./router/AppRouter";
+
 function App() {
-  return (
-    <>
-      App checking git
-    </>
-  );
+  return <AppRouter />;
 }
 
 export default App;
